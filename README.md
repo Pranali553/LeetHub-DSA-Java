@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranali553/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Pranali553/DSA-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranali553/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Pranali553/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranali553/DSA-Java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
