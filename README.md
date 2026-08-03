@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranali553/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -119,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
