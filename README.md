@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranali553/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranali553/DSA-Java/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pranali553/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/Pranali553/DSA-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pranali553/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranali553/DSA-Java/tree/master/0283-move-zeroes) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Pranali553/DSA-Java/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pranali553/DSA-Java/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Pranali553/DSA-Java/tree/master/0584-find-customer-referee) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Pranali553/DSA-Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
