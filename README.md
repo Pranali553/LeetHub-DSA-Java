@@ -21,7 +21,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
-| [1346-check-if-n-and-its-double-exist](https://github.com/Pranali553/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranali553/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Pranali553/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
@@ -35,12 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
-| [1346-check-if-n-and-its-double-exist](https://github.com/Pranali553/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranali553/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -59,7 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pranali553/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranali553/DSA-Java/tree/master/0283-move-zeroes) |
-| [1346-check-if-n-and-its-double-exist](https://github.com/Pranali553/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,7 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranali553/DSA-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
-| [1346-check-if-n-and-its-double-exist](https://github.com/Pranali553/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -111,7 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
-| [1346-check-if-n-and-its-double-exist](https://github.com/Pranali553/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
