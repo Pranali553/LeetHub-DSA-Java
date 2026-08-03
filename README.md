@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pranali553/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranali553/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranali553/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
