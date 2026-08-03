@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Pranali553/DSA-Java/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
