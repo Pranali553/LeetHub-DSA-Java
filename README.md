@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranali553/DSA-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranali553/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
