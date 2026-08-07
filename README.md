@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Pranali553/DSA-Java/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranali553/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranali553/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
@@ -166,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranali553/DSA-Java/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
