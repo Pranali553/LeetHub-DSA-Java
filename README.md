@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Pranali553/DSA-Java/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Pranali553/DSA-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
