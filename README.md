@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranali553/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Pranali553/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranali553/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranali553/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranali553/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
@@ -184,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
