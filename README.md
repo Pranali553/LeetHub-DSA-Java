@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranali553/DSA-Java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pranali553/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Pranali553/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranali553/DSA-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranali553/DSA-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Pranali553/DSA-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranali553/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Pranali553/DSA-Java/tree/master/3731-find-missing-elements) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
