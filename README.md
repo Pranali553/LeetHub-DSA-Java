@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Pranali553/DSA-Java/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pranali553/DSA-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pranali553/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Pranali553/DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pranali553/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranali553/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pranali553/DSA-Java/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pranali553/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
@@ -259,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pranali553/DSA-Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Pranali553/DSA-Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
