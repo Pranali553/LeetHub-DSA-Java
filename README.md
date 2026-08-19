@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranali553/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
