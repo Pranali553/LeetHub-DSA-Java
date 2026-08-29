@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranali553/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Pranali553/DSA-Java/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pranali553/DSA-Java/tree/master/0189-rotate-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranali553/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranali553/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Pranali553/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranali553/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranali553/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
