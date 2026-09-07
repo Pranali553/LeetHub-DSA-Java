@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Pranali553/DSA-Java/tree/master/0520-detect-capital) |
+| [0940-distinct-subsequences-ii](https://github.com/Pranali553/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pranali553/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranali553/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Pranali553/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranali553/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/Pranali553/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
