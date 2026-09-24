@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pranali553/DSA-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pranali553/DSA-Java/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Pranali553/DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pranali553/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranali553/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Pranali553/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranali553/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/Pranali553/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
