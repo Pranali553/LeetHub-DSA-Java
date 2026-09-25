@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Pranali553/DSA-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranali553/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranali553/DSA-Java/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Pranali553/DSA-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pranali553/DSA-Java/tree/master/0054-spiral-matrix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/Pranali553/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
