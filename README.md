@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pranali553/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranali553/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranali553/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranali553/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranali553/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Pranali553/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Pranali553/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Pranali553/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranali553/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranali553/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Pranali553/DSA-Java/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Pranali553/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranali553/DSA-Java/tree/master/0148-sort-list) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
