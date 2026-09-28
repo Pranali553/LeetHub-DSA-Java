@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/Pranali553/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranali553/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Pranali553/DSA-Java/tree/master/1470-shuffle-the-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pranali553/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pranali553/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1710-maximum-units-on-a-truck](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranali553/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Pranali553/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Pranali553/DSA-Java/tree/master/1386-cinema-seat-allocation) |
+| [1710-maximum-units-on-a-truck](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
