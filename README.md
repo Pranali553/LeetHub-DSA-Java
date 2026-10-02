@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranali553/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Pranali553/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Pranali553/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pranali553/DSA-Java/tree/master/0344-reverse-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pranali553/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0055-jump-game) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -368,5 +371,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
