@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Pranali553/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Pranali553/DSA-Java/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranali553/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranali553/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pranali553/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Pranali553/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0856-score-of-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -375,4 +377,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
