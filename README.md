@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Pranali553/DSA-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pranali553/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranali553/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranali553/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pranali553/DSA-Java/tree/master/0136-single-number) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
