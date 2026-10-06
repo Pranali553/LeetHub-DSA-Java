@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Pranali553/DSA-Java/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Pranali553/DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranali553/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0904-fruit-into-baskets](https://github.com/Pranali553/DSA-Java/tree/master/0904-fruit-into-baskets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Pranali553/DSA-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
