@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pranali553/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pranali553/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranali553/DSA-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranali553/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranali553/DSA-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranali553/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Pranali553/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Pranali553/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pranali553/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pranali553/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -395,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
