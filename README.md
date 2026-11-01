@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranali553/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Pranali553/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Pranali553/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pranali553/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pranali553/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Pranali553/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1901-find-a-peak-element-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pranali553/DSA-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pranali553/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranali553/LeetHub-DSA-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |
